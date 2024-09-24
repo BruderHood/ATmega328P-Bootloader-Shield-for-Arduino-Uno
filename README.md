@@ -12,6 +12,10 @@ Minimal Components: The board uses only the necessary components such as resisto
 Pinout Labels: All relevant ATmega328P pins (P0–P28) are clearly labeled, along with their corresponding Arduino Uno pins for ease of use.
 Oscillator and Reset Circuit: Includes a crystal oscillator and a manual reset switch for reliable clock signal generation and reset control.
 
+
+![Alt text](https://github.com/BruderHood/ATmega328P-Bootloader-Shield-for-Arduino-Uno/blob/main/ATMEGA%20Programmer%20PCB%20Front.jpg?raw=true "Title")
+
+
 How It Works:
 
 This shield is designed to simplify the process of bootloading ATmega328P microcontrollers using the Arduino Uno as an In-System Programmer (ISP). Simply insert an ATmega328P into the ZIF (Zero Insertion Force) socket, connect the Arduino Uno, and follow the typical bootloading process via the Arduino IDE.
